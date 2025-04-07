@@ -1,0 +1,17 @@
+{
+  "id": "shtraymelman-addon",
+  "version": "1.0.0",
+  "name": "שטריימלמן",
+  "description": "שטריימלמן הוא גיבור על של הדתיים שמציל אנשים מלאכול לא כשר ולהציל אותם מתומאות. ובקצרה שטריימלמן הוא גם מקלל מקצועי.",
+  "logo": "https://drive.google.com/uc?export=view&id=1SqViuIGc7fwIz7anM3qzIIGTCsigpHL_", 
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["series"],
+  "idPrefixes": ["shtraymelman"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "shtraymelman_catalog",
+      "name": "שטריימלמן"
+    }
+  ]
+}
